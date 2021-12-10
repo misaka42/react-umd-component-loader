@@ -1,0 +1,27 @@
+{
+  "name": "react-umd-component-loader",
+  "version": "1.0.0",
+  "description": "Render React Component From Online UMD script",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppq1991/react-umd-component-loader.git"
+  },
+  "keywords": [
+    "react",
+    "umd",
+    "loader",
+    "async",
+    "component",
+    "react-component"
+  ],
+  "author": "ppq1991@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ppq1991/react-umd-component-loader/issues"
+  },
+  "homepage": "https://github.com/ppq1991/react-umd-component-loader#readme"
+}
