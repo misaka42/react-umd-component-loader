@@ -4,7 +4,7 @@
   "description": "Render React Component From Online UMD script",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/ppq1991/react-umd-component-loader/issues"
   },
-  "homepage": "https://github.com/ppq1991/react-umd-component-loader#readme"
+  "homepage": "https://github.com/ppq1991/react-umd-component-loader#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.37",
+    "typescript": "^4.5.3"
+  },
+  "dependencies": {
+    "dynamic-umd-loader": "^1.1.2",
+    "react": "^17.0.2"
+  }
 }
