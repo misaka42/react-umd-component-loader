@@ -1,6 +1,6 @@
 {
   "name": "react-umd-component-loader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Render React Component From Online UMD script",
   "main": "dist/index.js",
   "scripts": {
